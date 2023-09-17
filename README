@@ -1,0 +1,21 @@
+# Data Analysis
+This folder contains data in a .csv file (In_Situ_Incubation_Data.csv) and the analysis code in R (InSitu_Analysis.R).
+
+
+**Creators:** Joanna Ridgeway, Jen Kane, Hayden Starcher, Ember Morrissey, Edward Brzostek
+
+**Contact information:** jrridgeway@mix.wvu.edu, erbrzostek@mix.wvu.edu 
+
+**Software**: R
+
+**Accompanying files**: 
+
+1.    Data: **In_Situ_Incubation_Data.csv**
+
+2.    Code: **InSitu_Analysis.R**
+
+**Instructions:** 
+
+The analysis code uses one-way and two-way ANOVAs to compare differences in ingrowth core treatments R (Root), F (Fungal), and T (none) and fertilization treatments C (Control), H (High Inorganic), and O (Organic) on the fate of litter C and N in soil organic matter. 
+
+To run the anovas and tukey tests in the analysis, download both files. Make sure your directory is correct to access the downloaded .csv file on your computer. 
